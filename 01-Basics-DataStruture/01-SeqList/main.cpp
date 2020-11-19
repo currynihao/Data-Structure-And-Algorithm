@@ -92,7 +92,6 @@ bool SeqList<DataType>::deleteElement(int location)
         return true;
     }
 }
-
 //修改指定位置的元素值
 template<typename DataType>
 bool SeqList<DataType>::changeElement(int location, DataType newData)
@@ -107,10 +106,7 @@ bool SeqList<DataType>::changeElement(int location, DataType newData)
         return true;
     }
 }
-
-
-
-
+//主程序
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
@@ -131,7 +127,5 @@ int main(int argc, char *argv[])
     {
         cout << list.getElement(i) << endl;
     }
-
-
     return a.exec();
 }
