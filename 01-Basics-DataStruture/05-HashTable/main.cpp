@@ -111,8 +111,6 @@ bool HashTable<DataType>::insertHash(DataType value)
     }
 }
 
-
-
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
