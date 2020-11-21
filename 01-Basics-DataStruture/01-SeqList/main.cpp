@@ -111,6 +111,10 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
+
+    cout << "hello" << endl;
+
+
     SeqList<int> list(10);
     for(int i=0 ; i<10 ; i++)
     {

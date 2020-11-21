@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2020-11-21T16:29:42. -->
+<!-- Written by QtCreator 4.3.1, 2020-11-19T16:49:26. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{fb058ed5-e1cd-4923-90c2-21a41b1a96ba}</value>
+  <value type="QByteArray">{960afc19-c582-4592-bb7a-4b157fb763e1}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -285,8 +285,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">01-SeqList</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">01-SeqList2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/gitProject/Data-Structure-And-Algorithm/01-Basics-DataStruture/01-SeqList/01-SeqList.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/QTproject/Data-Structure-And-Algorithm/01-Basics-DataStruture/01-SeqList/01-SeqList.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">01-SeqList.pro</value>
