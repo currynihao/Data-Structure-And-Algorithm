@@ -25,12 +25,15 @@ public:
     {
         delete[] elements;
     }
-
+    // 插入元素
     bool insertElement(DataType data);
+    //删除元素
     bool deleteElement(int location);
+    //获取指定位置元素的值
     DataType getElement(int location);
+    //改变某个元素的值
     bool changeElement(int location , DataType newData);
-
+    //获取顺序表的长度
     int getLength()
     {
         return length;
