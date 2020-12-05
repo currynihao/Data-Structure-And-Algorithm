@@ -78,7 +78,6 @@ int main(int argc, char *argv[])
         int  temp = queue.delElement();
         cout << temp << ":::" << endl;
     }
-
     return a.exec();
 }
 
