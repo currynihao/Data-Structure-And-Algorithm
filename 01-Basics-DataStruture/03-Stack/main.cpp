@@ -64,6 +64,5 @@ int main(int argc, char *argv[])
     temp = s.pop();
     cout << temp << endl;
     return a.exec();
-
 }
 
